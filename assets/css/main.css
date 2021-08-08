@@ -2550,7 +2550,11 @@ input, select, textarea {
 			color: #b2b2b2 !important;
 			cursor: default;
 		}
-
+/* space */
+.spaces {
+	display: flex;
+	justify-content:space-between;
+}
 /* Work Item */
 
 	.work-item {
